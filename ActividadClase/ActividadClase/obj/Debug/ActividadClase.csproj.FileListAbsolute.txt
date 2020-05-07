@@ -1,0 +1,5 @@
+/Users/c/Desktop/ejercicio-serializacion-cristobalneira/ActividadClase/ActividadClase/bin/Debug/ActividadClase.exe
+/Users/c/Desktop/ejercicio-serializacion-cristobalneira/ActividadClase/ActividadClase/bin/Debug/ActividadClase.pdb
+/Users/c/Desktop/ejercicio-serializacion-cristobalneira/ActividadClase/ActividadClase/obj/Debug/ActividadClase.csprojAssemblyReference.cache
+/Users/c/Desktop/ejercicio-serializacion-cristobalneira/ActividadClase/ActividadClase/obj/Debug/ActividadClase.exe
+/Users/c/Desktop/ejercicio-serializacion-cristobalneira/ActividadClase/ActividadClase/obj/Debug/ActividadClase.pdb
